@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-poly Jaguar XJ-S
+* source:	https://sketchfab.com/3d-models/low-poly-jaguar-xj-s-9f32690c423d49a7b536ec8ee97155a5
+* author:	Artyom (https://sketchfab.com/art_yom_3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-poly Jaguar XJ-S" (https://sketchfab.com/3d-models/low-poly-jaguar-xj-s-9f32690c423d49a7b536ec8ee97155a5) by Artyom (https://sketchfab.com/art_yom_3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
